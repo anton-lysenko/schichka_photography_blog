@@ -1,0 +1,23 @@
+{
+  "name": "schichka_photogrphy",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Anton Lysenko"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "slicknav": "~1.0.5"
+  }
+}

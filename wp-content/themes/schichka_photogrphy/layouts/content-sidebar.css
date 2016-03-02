@@ -1,0 +1,26 @@
+/*
+ * Theme Name: schichka_photogrphy
+ *
+ * Layout: Content-Sidebar
+ *
+ * Learn more: https://developer.wordpress.org/themes/basics/template-files/
+*/
+
+.content-area {
+	float: left;
+	margin-left: -380px;
+	padding-left: 380px;
+	width: 100%;
+}
+.site-main {
+	background:#CCCCCC;
+}
+.site-content .widget-area {
+	float: right;
+	overflow: hidden;
+	width: 380px;
+}
+.site-footer {
+	clear: both;
+	width: 100%;
+}
