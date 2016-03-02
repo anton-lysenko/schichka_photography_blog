@@ -1,0 +1,1 @@
+# schichka_photography_blog
